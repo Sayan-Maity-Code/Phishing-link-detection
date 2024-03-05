@@ -23,7 +23,18 @@ Testing the Model: After training, the model's performance is evaluated on a sep
 Real-time Prediction: Users can input a URL to the trained model for real-time prediction of its maliciousness. The model processes the URL using the same vectorization techniques used during training and provides a prediction based on its learned patterns.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+## The model demonstrates commendable accuracy and precision in detecting malicious links during training.
+![Accuracy](https://github.com/Sayan-Maity-Code/Phishing-link-detection/blob/main/Screenshots/Accuracy.jpg)
+
+
+## It exhibits high precision and accuracy in identifying benign links from the dataset.
+![Good Data](https://github.com/Sayan-Maity-Code/Phishing-link-detection/blob/main/Screenshots/Untitled%20design.png)
+
+
+## While the model's performance in detecting malicious links is generally good, there are instances where precision may be lower, indicating potential areas for improvement.
+![Bad Data Verification](https://github.com/Sayan-Maity-Code/Phishing-link-detection/blob/main/Screenshots/Untitled%20design_1.png)
+
+
 
 ## Installation
 To import the libraries-

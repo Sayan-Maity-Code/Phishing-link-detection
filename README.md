@@ -51,6 +51,11 @@ To import the libraries-
 
 Installation method for the libraies are:
 
+- To install the proper version that I have installed I made a `requirements.txt` file to make it easy for you to install the same
+
+```bash
+pip install -r https://raw.githubusercontent.com/Sayan-Maity-Code/Phishing-link-detection/main/requirements.txt
+```
 
 ```pip install pandas numpy matplotlib scikit-learn joblib```
 - Or you can just git clone the code but please change the path files according to your local machine
